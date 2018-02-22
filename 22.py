@@ -1,2 +1,2 @@
 n=input("the array value:")
-print(max(list(map(int,input("").split(' ')))))
+  print(max(list(map(int,input("").split(' ')))))
